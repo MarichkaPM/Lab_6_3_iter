@@ -1,0 +1,3 @@
+﻿  Lab 6_3.cpp
+C:\Users\Admin\Desktop\MARICHKA\АП\Laboratorna 6_3iter\Laboratorna 6_3iter\Lab 6_3.cpp(33,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Laboratorna 6_3iter.vcxproj -> C:\Users\Admin\Desktop\MARICHKA\АП\Laboratorna 6_3iter\x64\Debug\Laboratorna 6_3iter.exe

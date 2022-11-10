@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest_for_6_3.cpp
+C:\Users\Admin\Desktop\MARICHKA\АП\Laboratorna 6_3iter\Laboratorna 6_3iter\Lab 6_3.cpp(33,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+     Creating library C:\Users\Admin\Desktop\MARICHKA\АП\Laboratorna 6_3iter\x64\Debug\UnitTest_for_6_3.lib and object C:\Users\Admin\Desktop\MARICHKA\АП\Laboratorna 6_3iter\x64\Debug\UnitTest_for_6_3.exp
+  UnitTest_for_6_3.vcxproj -> C:\Users\Admin\Desktop\MARICHKA\АП\Laboratorna 6_3iter\x64\Debug\UnitTest_for_6_3.dll
